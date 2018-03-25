@@ -1,8 +1,3 @@
----
-layout: default
-title: Lizenz-Center
----
-
 Dies ist eine offizielle Übernahme des
 [ifrOSS.org/Lizenz-Center](http://www.ifross.org/lizenz-center) zur einfacheren Aktualisierung und kollaborativen Bearbeitung. 
 
