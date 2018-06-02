@@ -4,7 +4,7 @@ title: "Lizenz-Center - ifrOSS.org"
 ---
 
 Dies ist eine offizielle Übernahme des
-[ifrOSS.org/Lizenz-Center](http://www.ifross.org/lizenz-center) zur einfacheren Aktualisierung und kollaborativen Bearbeitung. 
+[ifrOSS.org/Lizenz-Center](http://www.ifross.org/lizenz-center) zur einfacheren Aktualisierung und kollaborativen Bearbeitung.
 
 <h1>Lizenz-Center</h1>
 
