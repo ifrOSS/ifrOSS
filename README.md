@@ -12,8 +12,3 @@ Dies ist eine offizielle Übernahme von Teilen der Webseite des Instituts für R
 * [Lizenz-Center](https://ifross.github.io/ifrOSS/Lizenzcenter)
 * [Urteile](https://ifross.github.io/ifrOSS/Cases)
 
-## Hinweise
-
-Dieses Projekt wird von den [Mitgliedern](http://ifross.org/personen) des ifrOSS betreut.
-
-Bitte beachten Sie unser [Impressum](http://ifross.org/impressum-und-postanschrift), unsere [Datenschutzerklärung](http://ifross.org/datenschutzerkl-rung), sowie die [Lizenzen](https://ifross.github.io/ifrOSS/LICENSE) von Bestandteilen dieser Webseite.
