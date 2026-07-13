@@ -280,6 +280,7 @@ Sofern Modifikationen der Software unter MPLartigen Lizenzen in eigenen Dateien 
 | OpenC++ License Terms | [🇬🇧](http://opencxx.sourceforge.net/license/) | - |
 | Red Hat eCos Public License (RHEPL) (v. 1.1) | [🇬🇧](http://ecos.sourceware.org/old-license.html) | RHeCos-1.1 |
 | Ricoh Source Code Public License | [🇬🇧](http://web.archive.org/web/20060427194554/http://www.risource.org/RPL/RPL-1.0A.shtml) | RSCPL |
+| SciTech MGL Public License | [🇬🇧](http://ftp.lanet.lv/ftp/mirror/x2ftp/msdos/programming/scitech/license.txt) | LicenseRef-ifrOSS-SciTechMGLPL |
 | SNIA Public License Version (v.1.1) | [🇬🇧](https://web.archive.org/web/20050214120435/https://www.snia.org/smi/developers/open_source) | SNIA |
 | SugarCRM Public License (v. 1.1.3) | [🇬🇧](https://web.archive.org/web/20160622020613/http://www.sugarcrm.com/page/sugarcrm-public-license/en) | SugarCRM-1.1.3 |
 | Sun Industry Standards Source License (v. 1.0) | [🇬🇧](https://web.archive.org/web/20000816085057/http://openoffice.org:80/project/www/sissl_license.html) | LicenseRef-scancode-sun-sissl-1.0 |
