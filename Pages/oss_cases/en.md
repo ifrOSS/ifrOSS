@@ -47,7 +47,7 @@ Emojis for the links can be copied from https://emojipedia.org
 | **Parties** | - |
 | **Subject** | Wordpress Theme: viral effect of the GPL-2.0 copyleft clause or simple licence infringement |
 | **Licence** | - |
-| **Links** | [🇩🇪](https://www.junit.de/2020/wp-content/uploads/OLG-Karlsruhe-27012021.pdf) |
+| **Links** | [🇩🇪](https://www.jun.legal/wp-content/uploads/OLG-Karlsruhe-Urteil-2.pdf) |
 
 | **Name** | OLG Hamburg, Urteil v. 28.02.2019, Az. 5 U 146/16 |
 |:---:|:---:|
