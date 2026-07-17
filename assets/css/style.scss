@@ -2,3 +2,25 @@
 ---
 
 @import "jekyll-theme-slate";
+
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+table th:first-child,
+table td:first-child {
+  width: 20%;
+}
+
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 80%;
+}
+
+table th,
+table td {
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
