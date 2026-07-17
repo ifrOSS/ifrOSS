@@ -28,6 +28,13 @@ Emojis für die Links können von https://emojipedia.org kopiert werden
 
 # Deutschland
 
+| **Bezeichnung** | LG Berlin II, Beschluss v. 20.06.2025 |
+|:---:|:---:|
+| **Parteien** | Greenbone AG |
+| **Thema** | einstweilige Verfügung gegen Wettbewerber wegen Verletzung verschiedener Lizenzen, darunter auch Verstoß gegen das Copyleft der GPL-2.0, bei der Übernahme des Schwachstellenscanners OpenVAS und der Datenbank mit Vulnerability-Tests |
+| **Lizenz** | GPL-2,0, AGPL-3.0, ODbL-1.0 |
+| **Links** | [🇩🇪](https://www.greenbone.net/wp-content/uploads/LG_Berlin_II_15-O-299-25-eV.pdf) |
+
 | **Bezeichnung** | LG Mannheim, Vergleich v. 27.12.2021, Az. 7 O 2/21 |
 |:---:|:---:|
 | **Parteien** | Ayuso, Welte, Kedlecsik v. McHardy |
