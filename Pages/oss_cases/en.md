@@ -28,6 +28,13 @@ Emojis for the links can be copied from https://emojipedia.org
 
 # Germany
 
+| **Name** | LG Berlin, Beschluss v. 25.06.2025 |
+|:---:|:---:|
+| **Parties** | Greenbone |
+| **Subject** | A preliminary injunction against a competitor for violating various licenses, including a breach of the GPL 2.0 copyleft, in connection with the use of the OpenVAS vulnerability scanner and the vulnerability test database |
+| **Licence** | GPL-2.0, AGPL-3.0, ODbL-1.0 |
+| **Links** | [🇬🇧](https://www.greenbone.net/wp-content/uploads/LG_Berlin_II_15-O-299-25-eV_engl_translation.pdf) |
+
 | **Name** | LG Mannheim, Vergleich v. 27.12.2021, Az. 7 O 2/21 |
 |:---:|:---:|
 | **Parties** | Ayuso, Welte, Kedlecsik v. McHardy |
